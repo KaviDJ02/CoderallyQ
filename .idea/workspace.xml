@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b48e7836-fbb7-4d2b-8ec9-479c3e7faef6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Coderally_2/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coderally_3/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coderally_1/CandlesCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coderally_1/CloudyDay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coderally_1/ComputerGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coderally_1/Parenthesized.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lyk2b33XY5TfVOv9XDG1PyEBIE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CandlesCounting.executor": "Run",
     "Application.PalindromesForTheWin.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -64,11 +68,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726159501843</updated>
-      <workItem from="1726159502919" duration="608000" />
+      <workItem from="1726159502919" duration="649000" />
+      <workItem from="1726165790619" duration="3771000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
   </component>
 </project>
