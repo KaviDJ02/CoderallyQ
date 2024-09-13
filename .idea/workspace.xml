@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b48e7836-fbb7-4d2b-8ec9-479c3e7faef6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Coderally_2/HermioneandMuggleStudies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b48e7836-fbb7-4d2b-8ec9-479c3e7faef6" name="Changes" comment=".idea">
+      <change afterPath="$PROJECT_DIR$/src/Coderally_2/CentralPerkMenulocked.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +48,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.PalindromesForTheWin.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/User/Downloads/CoderallyQ",
@@ -72,9 +73,31 @@
       <updated>1726159501843</updated>
       <workItem from="1726159502919" duration="608000" />
     </task>
+    <task id="LOCAL-00001" summary="Hermione and Muggle Studies">
+      <option name="closed" value="true" />
+      <created>1726161430417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726161430417</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".idea">
+      <option name="closed" value="true" />
+      <created>1726161458252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726161458252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hermione and Muggle Studies" />
+    <MESSAGE value=".idea" />
+    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
   </component>
 </project>
