@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b48e7836-fbb7-4d2b-8ec9-479c3e7faef6" name="Changes" comment=" Messy Bookshelf">
-      <change afterPath="$PROJECT_DIR$/src/Coderally_2/InteriorDesigning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b48e7836-fbb7-4d2b-8ec9-479c3e7faef6" name="Changes" comment="&#10;Interior Designing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726215135085</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="&#10;Interior Designing">
+      <option name="closed" value="true" />
+      <created>1726215477804</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726215477804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +122,7 @@
     <MESSAGE value=".idea" />
     <MESSAGE value=" Central Perk Menu  Central Perk Menu" />
     <MESSAGE value=" Messy Bookshelf" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Messy Bookshelf" />
+    <MESSAGE value="&#10;Interior Designing" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Interior Designing" />
   </component>
 </project>
