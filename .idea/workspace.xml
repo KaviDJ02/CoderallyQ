@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b48e7836-fbb7-4d2b-8ec9-479c3e7faef6" name="Changes" comment=".idea">
-      <change afterPath="$PROJECT_DIR$/src/Coderally_2/CentralPerkMenulocked.java" afterDir="false" />
+    <list default="true" id="b48e7836-fbb7-4d2b-8ec9-479c3e7faef6" name="Changes" comment=" Messy Bookshelf">
+      <change afterPath="$PROJECT_DIR$/src/Coderally_2/InteriorDesigning.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Dinidu21"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dinidu21&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Dinidu21/CoderallyQ.git",
-    "accountId": "48056803-81c9-494c-868d-980b6d71ffd3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dinidu21/CoderallyQ.git&quot;,
+    &quot;accountId&quot;: &quot;48056803-81c9-494c-868d-980b6d71ffd3&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.InteriorDesigning.executor": "Run",
     "Application.PalindromesForTheWin.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -89,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726161458252</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" Central Perk Menu  Central Perk Menu">
+      <option name="closed" value="true" />
+      <created>1726214666728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726214666728</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" Messy Bookshelf">
+      <option name="closed" value="true" />
+      <created>1726215135085</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726215135085</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +115,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hermione and Muggle Studies" />
     <MESSAGE value=".idea" />
-    <option name="LAST_COMMIT_MESSAGE" value=".idea" />
+    <MESSAGE value=" Central Perk Menu  Central Perk Menu" />
+    <MESSAGE value=" Messy Bookshelf" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Messy Bookshelf" />
   </component>
 </project>
